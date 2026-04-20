@@ -82,7 +82,7 @@ I am actively open to adding new features at users request! Drop a suggestion in
 
 If you find ProEdit Studio useful, consider leaving a tip!
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Tip%20Jar-orange)](https://ko-fi.com)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/projextx75)
 
 ---
 
