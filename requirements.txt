@@ -1,0 +1,7 @@
+moviepy
+pillow
+numpy
+imageio
+imageio-ffmpeg
+customtkinter
+tkinterdnd2
